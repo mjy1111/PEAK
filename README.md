@@ -3,8 +3,7 @@ The repository for our paper: Neighboring Perturbations of Knowledge Editing on 
 
 
 ## Overview
-LLMs are prone to generating unintended text due to false or outdated knowledge. Given the resource-intensive nature of retraining LLMs, there has been a notable
-increase in the development of **knowledge editing**, which aims at efficiently altering LLMs’ behaviors within specific domains while preserving overall performance across various inputs.
+**knowledge editing** aims at efficiently altering LLMs’ behaviors within specific domains while preserving overall performance across various inputs.
 Previous primarily focus on determining if the new target knowledge has been successfully memorized. However, the **perturbations** of editing on knowledge neighboring to the new target knowledge have not been fully explored when updating new knowledge to LLMs.
 
 This paper investigates whether the editing operation of appending a new answer into an answer list to a factual question perturbs the neighboring knowledge encapsulated within them.
