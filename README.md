@@ -10,7 +10,7 @@ Previous primarily focus on determining if the new target knowledge has been suc
 This paper investigates whether the editing operation of appending a new answer into an answer list to a factual question perturbs the neighboring knowledge encapsulated within them.
 It also proposes  a plug-and-play framework termed Appending via Preservation and Prevention (APP) to mitigate the neighboring perturbation by maintaining the integrity of the answer list.
 
-<img src="https://github.com/mjy1111/PEAK/blob/main/definition.png" width="800">
+<img src="https://github.com/mjy1111/PEAK/blob/main/definition.png" width="600">
 
 ## Datasets
 The PEAK benchmark comprises two datasets of PEAK_counter and PEAK_time, which are included in `data/`.
