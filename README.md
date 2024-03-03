@@ -24,7 +24,6 @@ data/
     |__ PEAK_counter.json
     |__ PEAK_time.json
 ```
-You can download these datasets here. [[Google Drive]](https://drive.google.com/file/d/1HUH4bggk4h01gRxz6arsIbL-mUMj6Ibz/view?usp=sharing).
 
 
 ## Prepare the environment
