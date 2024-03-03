@@ -7,7 +7,7 @@ The repository for our paper: Neighboring Perturbations of Knowledge Editing on 
 Previous primarily focus on determining if the new target knowledge has been successfully memorized. However, the **perturbations** of editing on knowledge neighboring to the new target knowledge have not been fully explored when updating new knowledge to LLMs.
 
 This paper investigates whether the editing operation of appending a new answer into an answer list to a factual question perturbs the neighboring knowledge encapsulated within them.
-It also proposes  a plug-and-play framework termed Appending via Preservation and Prevention (APP) to mitigate the neighboring perturbation by maintaining the integrity of the answer list.
+It also proposes a plug-and-play framework termed APP to mitigate the neighboring perturbation by maintaining the integrity of the answer list.
 
 <img src="https://github.com/mjy1111/PEAK/blob/main/definition.png" width="600">
 
