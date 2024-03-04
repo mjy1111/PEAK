@@ -65,12 +65,12 @@ GPT-2 XL (1.5B), GPT-J (6B), and LLaMA-2 (7B) are used for editing.
 
 
 ### Running the evaluation
-After downloading the datasets and models, to get started (e.g. using FT to edit GPT-2 XL on PEAK_counter dataset), run:
+After downloading the datasets and models, to get started (e.g. using ROME to edit GPT-2 XL on PEAK_counter dataset), run:
 ```bash
 python neighbor.py \
     --alg_name=ROME \
     --model_name=gpt2-xl \
-    --ds_name=counter \
+    --ds_name=counter (time for PEAK_time dataset) \
     --cuda=0 \
     --dataset_size=100 (optional)
 ```
