@@ -4,7 +4,7 @@ The repository for our paper:
 Neighboring Perturbations of Knowledge Editing on Large Language Models ([arxiv](https://arxiv.org/abs/2401.17623)).
 
 ## 🔔News
-- **2024-05-02  This paper has been accepted by ICML 2024.**
+- **2024-05-02  Delighted to announce that this paper has been accepted to ICML 2024.**
 
 
 ## Overview
