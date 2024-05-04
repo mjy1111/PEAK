@@ -1,10 +1,8 @@
 # PEAK
-The repository for our paper: 
+The repository for our ICML 2024 paper: 
 
 Neighboring Perturbations of Knowledge Editing on Large Language Models ([arxiv](https://arxiv.org/abs/2401.17623)).
 
-## 🔔News
-- **2024-05-02  Delighted to announce that this paper has been accepted to ICML 2024.**
 
 
 ## Overview
